@@ -6,8 +6,8 @@ from IPython.display import clear_output
 import os
 import csv
 
-access_key = 'AKIAVWSZZW3E2C5FUVA4'
-secret_access_key = '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'
+access_key = #Fill in this data
+secret_access_key = # Fill in this data
 endpoint = 'https://s3.us-east-2.amazonaws.com'  #Fill this in  
 region = "us-east-2"
 
